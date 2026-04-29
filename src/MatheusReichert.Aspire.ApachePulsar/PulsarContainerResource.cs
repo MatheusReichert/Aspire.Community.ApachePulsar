@@ -3,7 +3,7 @@
 
 using Aspire.Hosting.ApplicationModel;
 
-namespace Aspire.Community.ApachePulsar;
+namespace MatheusReichert.Aspire.ApachePulsar;
 
 /// <summary>
 /// A resource that represents an Apache Pulsar container.

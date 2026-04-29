@@ -4,7 +4,7 @@
 using Aspire.Hosting;
 using Aspire.Hosting.ApplicationModel;
 
-namespace Aspire.Community.ApachePulsar;
+namespace MatheusReichert.Aspire.ApachePulsar;
 
 /// <summary>
 /// Provides extension methods for adding Apache Pulsar resources to the application model.

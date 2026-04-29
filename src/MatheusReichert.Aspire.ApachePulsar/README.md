@@ -1,4 +1,4 @@
-# Aspire.Community.ApachePulsar library
+# MatheusReichert.Aspire.ApachePulsar library
 
 Provides extension methods and resource definitions for an Aspire AppHost to configure an Apache Pulsar resource.
 
@@ -9,7 +9,7 @@ Provides extension methods and resource definitions for an Aspire AppHost to con
 In your AppHost project, install the Aspire Apache Pulsar Hosting library with [NuGet](https://www.nuget.org):
 
 ```dotnetcli
-dotnet add package Aspire.Community.ApachePulsar
+dotnet add package MatheusReichert.Aspire.ApachePulsar
 ```
 
 ## Usage example

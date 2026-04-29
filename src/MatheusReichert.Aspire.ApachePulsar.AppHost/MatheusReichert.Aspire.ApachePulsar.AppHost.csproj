@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Aspire.Community.ApachePulsar\Aspire.Community.ApachePulsar.csproj" IsAspireProjectResource="false" />
+    <ProjectReference Include="..\MatheusReichert.Aspire.ApachePulsar\MatheusReichert.Aspire.ApachePulsar.csproj" IsAspireProjectResource="false" />
   </ItemGroup>
 
 </Project>

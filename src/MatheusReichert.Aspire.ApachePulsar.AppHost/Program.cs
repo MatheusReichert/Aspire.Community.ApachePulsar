@@ -1,4 +1,4 @@
-using Aspire.Community.ApachePulsar;
+using MatheusReichert.Aspire.ApachePulsar;
 
 var builder = DistributedApplication.CreateBuilder(args);
 

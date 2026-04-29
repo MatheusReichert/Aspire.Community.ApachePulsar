@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/Aspire.Community.ApachePulsar/Aspire.Community.ApachePulsar.csproj" />
-    <Project Path="src/Aspire.Community.ApachePulsar.AppHost/Aspire.Community.ApachePulsar.AppHost.csproj" />
+    <Project Path="src/MatheusReichert.Aspire.ApachePulsar/MatheusReichert.Aspire.ApachePulsar.csproj" />
+    <Project Path="src/MatheusReichert.Aspire.ApachePulsar.AppHost/MatheusReichert.Aspire.ApachePulsar.AppHost.csproj" />
   </Folder>
 </Solution>

@@ -1,4 +1,4 @@
-# Aspire.Community.ApachePulsar
+# MatheusReichert.Aspire.ApachePulsar
 
 Apache Pulsar integration for .NET Aspire. This component allows you to easily orchestrate Apache Pulsar containers along with the Dekaf UI manager.
 
@@ -23,7 +23,7 @@ Add the project reference to your Aspire AppHost project.
 In your `Program.cs` of the AppHost:
 
 ```csharp
-using Aspire.Community.ApachePulsar;
+using MatheusReichert.Aspire.ApachePulsar;
 
 var builder = DistributedApplication.CreateBuilder(args);
 
