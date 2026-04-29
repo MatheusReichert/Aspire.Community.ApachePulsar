@@ -5,7 +5,23 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>Aspire.Community.ApachePulsar</RootNamespace>
+
+    <PackageId>Aspire.Community.ApachePulsar</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Matheus Reichert</Authors>
+    <Description>Apache Pulsar integration for .NET Aspire. Orchestrates Apache Pulsar containers with Dekaf UI for local development.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>aspire;pulsar;apache-pulsar;messaging;dekaf</PackageTags>
+    <PackageProjectUrl>https://github.com/matheusernan58/Aspire.AppHost.ApachePulsar</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/matheusernan58/Aspire.AppHost.ApachePulsar</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Aspire.Hosting" Version="13.2.4" />
