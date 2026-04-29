@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "src/Aspire.Community.ApachePulsar.AppHost/Aspire.Community.ApachePulsar.AppHost.csproj"
+  }
+}
